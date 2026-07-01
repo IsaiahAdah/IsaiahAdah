@@ -1,10 +1,10 @@
 # Isaiah Adah
 
-Biomedical scientist turned builder. I study the brain because a system that can't catch a stroke or a mental health crisis in time has already failed the people I love.
+Biomedical scientist turned builder. I study the brain because a healthcare system that can't catch a stroke or a mental health crisis in time has already failed the people who needed it.
 
-I was two years old the first time my family fled religious violence into an internally displaced persons camp. At seven, I lost my uncle to that same violence. At fourteen, I lost my father, shot in front of me during Sunday service. My younger brother has lived with an undiagnosed, uncured mental health condition for nineteen years. In 2020, I lost my grandfather to a stroke, in a country with five dedicated stroke units for over 220 million people.
+I grew up in a part of Nigeria shaped by conflict and by a healthcare system stretched far too thin, five dedicated stroke units for a country of over 220 million people. I've seen, up close, what it costs a family when the system isn't there when it matters most.
 
-Three different kinds of loss. One pattern: no system was there to catch them.
+That gap between what people need and what the system can deliver is the problem I've committed my career to closing.
 
 I studied Human Physiology at Bayero University Kano (top 5% of my graduating class) to understand the brain and body at their foundation. Now I build AI and digital health tools aimed at closing Nigeria's brain health and stroke care gap, and I'm working toward an MSc in Artificial Intelligence and Digital Health to go further, faster.
 
@@ -47,5 +47,5 @@ Building toward Nigeria's first national stroke care atlas and telemedicine feas
 
 ---
 
-*I've buried people I love to system failures. I'm building the systems that should have been there.*
+*Some systems fail quietly until someone decides to rebuild them. I'm building.*
 
